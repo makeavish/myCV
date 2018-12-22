@@ -4,12 +4,12 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Vishal Sharma
-title: Student
+title: Student/Software Engineer
 email: makeavish786@gmail.com
 website: www.vishalsharma.ml
 
 # Social links
-twitter_username: makeavish
+twitter_username: makeavish11
 github_username:  makeavish
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -25,7 +25,7 @@ linkedin_username: makeavish
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vishal and I'm a student. I have experience in Data Analytics, ML, Algorithms, etc. I have worked at a number of companies gaining teamwork and leadership skills.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark>, <mark>Android</mark, <mark>git</mark>, <mark>MySQL</mark>.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark>, <mark>Android</mark>, <mark>git</mark>, <mark>MySQL</mark>.
 
 # Projects Section
 # projects_title: Projects

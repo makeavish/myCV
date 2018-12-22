@@ -1,5 +1,5 @@
 - name: Share price prediction
-  link: https://github.com/makeavish/GoProPrediction
+  #link: https://github.com/makeavish/GoProPrediction
   github: makeavish/GoProPrediction
   dates: Sep 2018 - Nov 2018
   quote: >
@@ -15,13 +15,13 @@
   #description: | # this will include new lines to allow paragraphs
    # Built a ML model to label e-commerce reviews as positive and negative. This project was part of Alibaba Cloud Hackathon. The accuracy of the model was 90.79% and secured 1st prize in the hackathon.
 
-- name: ADrOne
-  link: https://github.com/makeavish/GoProPrediction
-  github: makeavish/GoProPrediction
+- name: ADrOnest
+  #link: https://github.com/makeavish/GoProPrediction
+  #github: makeavish/GoProPrediction
   dates: Jan 2018 - May 2018
   quote: >
     A Cargo Drone for Medical Emergencies.
   description: | # this will include new lines to allow paragraphs
-    ADrOne was built from aluminium scrap with the objective to carry First Aid Kit in case for emergency. This team project was a part of Joy of Engineer Course.
+    ADrOnest was built from aluminium scrap with the objective to carry First Aid Kit in case for emergency. This team project was a part of Joy of Engineer Course.
     Payload capacity of ADrOne was 500gm. We manufactured two versions of the ADrOne. Initial version was made of Scrap Plywood and final version was made of aluminium scrap and Ionised aluminium.
 
