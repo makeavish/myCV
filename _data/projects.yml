@@ -1,9 +1,88 @@
 # Project template
+# - layout: top-middle
+#   name: Project name
+#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#   quote: >
+#     Short overview of the project (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description about the work on/with the project
+
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Food Detection
+  #link: https://github.com/makeavish/GoProPrediction
+  github: makeavish/japan_food_detection_using_yolo
+  # dates: Apr 2019 - Apr 2019
   quote: >
-    Short overview of the project (optional)
+    Food Detection with labeled bounding boxes
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Completed this project as part of hiring task given by a company.
+    - This model was able to identify 100 different food items of UEC food dataset.
+    - I used Yolov2 with 24 CNN layers.
+
+- layout: top-middle
+  name: Research Assist
+  #link: https://github.com/makeavish/GoProPrediction
+  github: makeavish/ResearchAssist
+  # dates: Oct 2019 - Nov 2019
+  quote: >
+    Assistant for Researchers
+  description: | # this will include new lines to allow paragraphs
+    - I did this project as a part of Information Retrieval Course. 
+    - This tool helps researchers to find research papers on topic which they are working on.
+    - The researcher provides a link to a sample research paper (pdf) and then this tool parse the text from pdf to create a query which is used to crawl the internet.
+    - This tool uses focused crawling which helped reduce search time and improved efficiency.
+    - As this tool crawls the internet to search for research papers so it can only find openly accessible research papers.
+    - Implemented using Python and its libraries like *BeautifulSoup*, *NLTK*, *request*, *PyPDF*.
+
+- layout: top-middle
+  name: QBox, QMoney and QCharm
+  link: https://criodo.github.io/Crio-Launch-Feb-2020-makeavish786
+  # github: makeavish/GoProPrediction
+  # dates: Jan 2020 - Apr 2020
+  quote: >
+    Worked on backend of these tools
+  description: | # this will include new lines to allow paragraphs
+    - As a part of Crio Launch program I worked on backend of these applications. 
+      - QBox: QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
+      - QMoney: QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
+      - QCharm: QCharm is an online IDE. Programmers use QCharm to write source code and execute it inside the editor.
+    - While working on these projects I acquired various skills like Shell Scriptins, REST API, Code Refactoring, Applied DS, etc. 
+    - More details of the project can be found in the portfolio issued by Crio.do (link can be found above).
+
+- layout: top-middle
+  name: Sentiment Analysis of movie reviews
+  #link: https://github.com/makeavish/GoProPrediction
+  github: makeavish/SentimentAnalysisMovieReviews
+  # dates: Feb 2019 - Mar 2019
+  quote: >
+    Movie Review Classification
+  description: | # this will include new lines to allow paragraphs
+    - I worked on this project while I was learning RNN and LSTM. 
+    - It is a review classification model built using LSTM layers in RNN using PyTorch.
+    - This model was able to achieve 83% accuracy for review classification.
+
+
+- layout: top-middle 
+  name: Share price prediction
+  #link: https://github.com/makeavish/GoProPrediction
+  github: makeavish/GoProPrediction
+  # dates: Sep 2018 - Nov 2018
+  quote: >
+    Study and Prediction of share prices
+  description: | # this will include new lines to allow paragraphs
+    - I did this project as a part of probability and stats course. 
+    - I used various Python libraries like *NumPy*, *Matplotlib*, *Pandas*. 
+    - For prediction I used Monte Carlo Simulations over Geometric Brownian Motion formula used for share prices.
+
+- layout: top-middle
+  name: ADrOnest
+  # dates: Jan 2018 - May 2018
+  quote: >
+    A Cargo Drone for Medical Emergencies.
+  description: | # this will include new lines to allow paragraphs
+    - ADrOnest was built from aluminium scrap with the objective to carry First Aid Kit in case for emergency. 
+    - This team project was a part of Joy of Engineer Course.
+    - Payload capacity of ADrOne was 500gm. We manufactured two versions of the ADrOne. 
+    - Initial version was made of Scrap Plywood and final version was made of aluminium scrap and Ionised aluminium.
+

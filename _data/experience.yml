@@ -1,10 +1,56 @@
 # Experience template
+# - layout: left
+  # company: Company name
+  # link: Link to company (optional)
+  # job_title: Job title
+  # dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Short description of the company (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of role
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: ePlane.ai
+  link: theeplanecompany.com
+  job_title: Deep Learning Intern
+  dates: May 2019 - July 2019
   quote: >
-   Short description of the company (optional)
+   Aerial Vehicles to make Flying Ubiquitous.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Here, I worked as a deep learning engineer and my project was to build Deep Learning models which can enable Autonomous Drones. 
+    - I learnt Reinforcement Learning and worked on Reinforcement Learning model which could fly Drones in simulations. 
+    - I also worked on implementation of state of the art deep learning research papers for localization of Drones.
+
+- layout: left
+  company: Balnc Care Ltd.
+  link: balnccare.com
+  job_title: Machine Learning Intern
+  dates: Feb 2019 - Apr 2019
+  quote: >
+   Balnc aims to develop AI technologies for a better tomorrow.
+  description: | # this will include new lines to allow paragraphs
+    - Here, I worked on a Machine Learning model of Pose Estimation and prediction of future poses.
+
+
+# - layout: left
+#   company: Association for Reforms and Cooperation
+#   #link: boringcompany.com
+#   job_title: Secretary
+#   dates: December 2017 - February 2018
+#   quote: >
+#    Promoting Equality, Education, Empathy in the society
+#   description: | # this will include new lines to allow paragraphs
+#     - Every organisation needs its networks properly administered and ARC is no exception. 
+#     - I play my part making sure the whole organisation stays connected with people. 
+#     - I enjoyed driving the company to try new technologies.
+
+# - layout: left
+#   company: One97 Communication
+#   link: paytm.com
+#   job_title: BCA
+#   dates: March 2018 - April 2018
+#   quote: >
+#    Revolutionizing Payments System in India
+#   description: | # this will include new lines to allow paragraphs
+#     - My work was to provide paymemt services to students of my college and in my locality. 
+#     - I gained communication skills as the work required people skills. 
+#     - I also learned time management skills as managing work during exams was difficult but I successfully completed targets given to me.

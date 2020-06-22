@@ -13,6 +13,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.download_resume -%}
+        <li>
+          <a target="_blank" href="Vishal_Sharma_Resume.pdf" class="button button--sacnite button--round-l">
+            <i class="fa fa-file-text" title="Download Resume"></i>
+          </a>
+        </li>
+        {%- endif -%}
         {%- if site.facebook_username -%}
           <li>
             <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
