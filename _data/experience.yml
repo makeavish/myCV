@@ -13,8 +13,8 @@
   link: theeplanecompany.com
   job_title: Deep Learning Intern
   dates: May 2019 - July 2019
-  quote: >
-   Aerial Vehicles to make Flying Ubiquitous.
+  # quote: >
+  #  Aerial Vehicles to make Flying Ubiquitous.
   description: | # this will include new lines to allow paragraphs
     - Here, I worked as a deep learning engineer and my project was to build Deep Learning models which can enable Autonomous Drones. 
     - I learnt Reinforcement Learning and worked on Reinforcement Learning model which could fly Drones in simulations. 
@@ -25,8 +25,8 @@
   link: balnccare.com
   job_title: Machine Learning Intern
   dates: Feb 2019 - Apr 2019
-  quote: >
-   Balnc aims to develop AI technologies for a better tomorrow.
+  # quote: >
+  #  Balnc aims to develop AI technologies for a better tomorrow.
   description: | # this will include new lines to allow paragraphs
     - Here, I worked on a Machine Learning model of Pose Estimation and prediction of future poses.
 
