@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: Achievements and A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Achievements**
   - Won College SIH Hackathon and Qualified for SIH Finals 
@@ -73,8 +73,9 @@ more_content: | # this will include new lines to allow paragraphs
   
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Reading books (Non-Fiction) and Listening Podcasts
-   - Playing Basketball and Badminton
+   - Recently started writing on my [blog](https://vishalsharma.dev)
    - Networking with Professions and People
+   - Playing Basketball and Badminton
    - Meditation
 # Footer
 footer_show_references: true
