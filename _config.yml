@@ -65,6 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Achievements**
+  - Ranked among top 100(/120,000+ participants) in Hackwithinfy
   - Won College SIH Hackathon and Qualified for SIH Finals 
   - Qualified for Crio Launch program (Among top 300/10000)
   - ACM [ICPC](https://icpc.global/ICPCID/OGBPOQQ406DP) Kanpur Regional Round(37/106)
