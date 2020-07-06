@@ -12,7 +12,7 @@
   github: piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
   # dates: Apr 2019 - Apr 2019
   quote: >
-    Homomorphic Encryption for Training Nueral Networks
+    Homomorphic Encryption for Training Neural Networks
   description: | # this will include new lines to allow paragraphs
     - This project was part of Cryptography Course at university
     - Trained a Neural Network on Encrypted Data
