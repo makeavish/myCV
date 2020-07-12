@@ -17,8 +17,8 @@
   #  Aerial Vehicles to make Flying Ubiquitous.
   description: | # this will include new lines to allow paragraphs
     - Here, I worked as a deep learning engineer and my project was to build Deep Learning models which can enable Autonomous Drones. 
-    - I learnt Reinforcement Learning and worked on Reinforcement Learning model which could fly Drones in simulations. 
-    - I also worked on implementation of state of the art deep learning research papers for localization of Drones.
+    - I built an Actor-Critic Reinforcement Learning model for Autonomous Drones which could fly a Drone in a simulation(AirSim). 
+    - I also implementated VLocNet which is state of the art deep learning research papers for localization of a Drone.
 
 - layout: left
   company: Balnc Care Ltd.
@@ -28,7 +28,7 @@
   # quote: >
   #  Balnc aims to develop AI technologies for a better tomorrow.
   description: | # this will include new lines to allow paragraphs
-    - Here, I worked on a Machine Learning model of Pose Estimation and prediction of future poses.
+    - Here, I worked on a Machine Learning model of Pose Estimation and implemented a RNN model to predict pose.
 
 
 # - layout: left
