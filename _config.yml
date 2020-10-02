@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
    Hi, my name's Vishal and I'm senior at BML Munjal University. I have experience in Machine Learning, Problem Solving, Algorithms, Data Analytics, etc. I have worked at a number of companies gaining teamwork and leadership skills.
   
-   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark> , <mark>C++</mark> , <mark>Java</mark> , <mark>git</mark> , <mark>Docker</mark>.
+   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark> ,  <mark>Go</mark> , <mark>C++</mark> , <mark>Java</mark> , <mark>git</mark> , <mark>Docker</mark>.
    
    I am looking for opportunities that allow me to apply Computational Thinking and Algorithmic problem solving skills to help solve problems that make impact on a big scale and further enhance my knowledge.
 # Projects Section
@@ -65,6 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Achievements**
+  - Won ”Ace of Impacts” award in OkHackathon 2.0
   - Ranked among top 100(120,000+ participants) Hackwithinfy 2020
   - Won College SIH Hackathon and Qualified for SIH Finals 
   - Qualified for Crio Launch program (Among top 300/10000)

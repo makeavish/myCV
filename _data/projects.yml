@@ -8,6 +8,16 @@
 #   description: | # this will include new lines to allow paragraphs
 #     Description about the work on/with the project
 - layout: top-middle
+  name: Skin Cancer Predictor
+  github: makeavish/SkinCancerPredictor
+  # dates: Apr 2019 - Apr 2019
+  quote: >
+    Predicts skin cancer using images
+  description: | # this will include new lines to allow paragraphs
+    - Built a basic web app using flask which predicts skin cancer
+    - Used transfer learning to train InceptionV3 model and achieved 87% accuracy
+
+- layout: top-middle
   name: Encrypted Neural Networks
   github: piyush14298/Homomorphic-Encryption-for-Training-Nueral-Networks
   # dates: Apr 2019 - Apr 2019

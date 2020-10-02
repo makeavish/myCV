@@ -9,6 +9,19 @@
   # description: | # this will include new lines to allow paragraphs
   #   Description of role
 - layout: left
+  company: OkCredit
+  link: okcredit.in
+  job_title: Software Engineering Intern
+  dates: August 2020 - Present
+  # quote: >
+  #  Aerial Vehicles to make Flying Ubiquitous.
+  description: | # this will include new lines to allow paragraphs
+    - I am part of Core Experience team whose task is to improve satisfaction of OkCredit users.
+    - I build internal tools which improves effciency of internal teams. 
+    - Tech stack: Go, Postgres, Docker, Redis, Js, Retool.
+
+
+- layout: left
   company: ePlane.ai
   link: theeplanecompany.com
   job_title: Deep Learning Intern
@@ -18,7 +31,7 @@
   description: | # this will include new lines to allow paragraphs
     - Here, I worked as a deep learning engineer and my project was to build Deep Learning models which can enable Autonomous Drones. 
     - I built an Actor-Critic Reinforcement Learning model for Autonomous Drones which could fly a Drone in a simulation(AirSim). 
-    - I also implementated VLocNet which is state of the art deep learning research papers for localization of a Drone.
+    - I also contributed in implementation of VLocNet which is state of the art deep learning research papers for localization of a Drone.
 
 - layout: left
   company: Balnc Care Ltd.
