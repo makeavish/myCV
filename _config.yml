@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Hi, my name's Vishal and I'm senior at BML Munjal University. I have experience in Machine Learning, Problem Solving, Algorithms, Data Analytics, etc. I have worked at a number of companies gaining teamwork and leadership skills.
+   Hi, my name's Vishal and I'm senior at BML Munjal University. I have experience in Backend Development, Machine Learning, Algorithms, Data Analytics, etc. I have worked at a number of companies gaining teamwork and leadership skills.
   
    I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark> ,  <mark>Go</mark> , <mark>C++</mark> , <mark>Java</mark> , <mark>git</mark> , <mark>Docker</mark>.
    

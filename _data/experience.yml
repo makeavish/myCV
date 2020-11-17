@@ -18,8 +18,10 @@
   description: | # this will include new lines to allow paragraphs
     - I am part of Core Experience team whose task is to improve satisfaction of OkCredit users.
     - I build internal tools which improves effciency of internal teams. 
-    - Tech stack: Go, Postgres, Docker, Redis, Js, Retool.
-
+    - Saved 1167 hrs of internal teams by improving efficiency of internal tools
+    - Contributed to a microservice which handles 500k rpm (requests per minute)
+    - Won ”Ace of Impacts” award in OkHackathon 2.0
+    - Tech Stack: Go, Postgres, Ruby, Retool, Js
 
 - layout: left
   company: ePlane.ai
