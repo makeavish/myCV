@@ -8,6 +8,21 @@
 #   description: | # this will include new lines to allow paragraphs
 #     Description about the work on/with the project
 - layout: top-middle
+  name: E-Nidaan
+  link: https://www.medrxiv.org/content/10.1101/2021.03.02.21252269v1
+  github: eNidaan
+  # dates: Jan 2020 - Apr 2020
+  quote: >
+    COVID-19 risk assesment and predictor tool
+  description: | # this will include new lines to allow paragraphs
+    - Developed an COVID-19 risk assessment tool and COVID-19 predictor tool based on Chest X-Rays.
+    - There were two parts: Risk assessment, Chest X-Ray analysis
+      - Risk assesment was based on dataset by Nexiod and we tested and compared multiple ML models after data preprocessing
+      - Covid Predictor was built using deep learning models trained using transfer learning and also tried a model built from scratch
+      - We achieved around 98% accuracy in predicting COVID-19 from Chest X-Rays.
+    - Deployed these models using Django framework, Python, HTML, CSS.
+
+- layout: top-middle
   name: Skin Cancer Predictor
   github: makeavish/SkinCancerPredictor
   # dates: Apr 2019 - Apr 2019

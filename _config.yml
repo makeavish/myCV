@@ -15,7 +15,7 @@ darkmode: false
 # Social links
 download_resume: columbia.jpg # made changes in _includes/header.html
 twitter_username: makeavish11
-github_username:  makeavish
+github_username: makeavish
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,9 +30,9 @@ linkedin_username: makeavish
 
 # Additional icon links
 additional_links:
-- title: Goodreads
-  icon: fa-goodreads-g
-  url:  https://www.goodreads.com/makeavish
+  - title: Goodreads
+    icon: fa-goodreads-g
+    url: https://www.goodreads.com/makeavish
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,11 +47,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Hi, my name's Vishal and I'm senior at BML Munjal University. I have experience in Backend Development, Machine Learning, Algorithms, Data Analytics, etc. I have worked at a number of companies gaining teamwork and leadership skills.
-  
-   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark> ,  <mark>Go</mark> , <mark>C++</mark> , <mark>Java</mark> , <mark>git</mark> , <mark>Docker</mark>.
-   
-   I am looking for opportunities that allow me to apply Computational Thinking and Algorithmic problem solving skills to help solve problems that make impact on a big scale and further enhance my knowledge.
+  Hi, Vishal here! 
+
+  Here goes my brief intro:
+
+  I am currently working as Software Engineer Intern at [OkCredit](https://okcredit.in/) where I am developing internal tools and applications. I have previously interned with [ePlane.ai](https://eplane.ai) as deep learning engineer. I have experience in Backend Development, Machine Learning, Algorithms, Data Analytics, etc. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>Python</mark> ,  <mark>Go</mark> , <mark>C++</mark> , <mark>Java</mark> , <mark>Ruby</mark> , <mark>git</mark> , <mark>Docker</mark>.
+
+  I am looking for opportunities that allow me to apply Computational Thinking and Algorithmic problem solving skills to help solve problems that make impact on a big scale and further enhance my knowledge.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -66,17 +70,17 @@ more_title: A Little More About Me #(Use this to override about more section tit
 more_content: | # this will include new lines to allow paragraphs
   **Achievements**
   - Won ”Ace of Impacts” award in OkHackathon 2.0
-  - Ranked among top 100(120,000+ participants) Hackwithinfy 2020
+  - Ranked among top 100(167,000+ participants) Hackwithinfy 2020
   - Won College SIH Hackathon and Qualified for SIH Finals 
   - Qualified for Crio Launch program (Among top 300/10000)
   - ACM [ICPC](https://icpc.global/ICPCID/OGBPOQQ406DP) Kanpur Regional Round(37/106)
   - ACM [ICPC](https://icpc.global/ICPCID/OGBPOQQ406DP) Qualifier Round(179/4401)
   - Alibaba Tianchi NLP Hackathon(1/40)
-  
+
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Reading books (Non-Fiction) and Listening Podcasts
-   - Recently started writing on my [blog](https://vishalsharma.dev)
-   - Networking with Professions and People
+   - Reading books (Non-Fiction) and listening podcasts
+   - Planning(since last 3 months😅) to start writing on my [blog](https://vishalsharma.dev)
+   - Networking with Professionals and diverse people
    - Playing Basketball and Badminton
    - Meditation
 # Footer
@@ -91,17 +95,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
