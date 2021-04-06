@@ -18,9 +18,10 @@
   description: | # this will include new lines to allow paragraphs
     - I am part of Core Experience team whose task is to improve satisfaction of OkCredit users.
     - I build internal tools which improves effciency of internal teams. 
-    - Saved 1167 hrs of internal teams by improving efficiency of internal tools
+    - Saved 11,000+ hrs of internal teams by building new tools and improving efficiency of existing tools
     - Contributed to a microservice which handles 500k rpm (requests per minute)
-    - Won ”Ace of Impacts” award in OkHackathon 2.0
+    - Won "Best Newbie" award at 2020-21
+    - Won "Ace of Impacts" award in OkHackathon 2.0
     - Tech Stack: Go, Postgres, Ruby, Retool, Js
 
 - layout: left
